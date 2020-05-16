@@ -1,0 +1,16 @@
+<div class="vizew-post-author d-flex align-items-center py-5">
+                                <div class="post-author-thumb">
+                                    <img src="img/bg-img/30.jpg" alt="">
+                                </div>
+                                <div class="post-author-desc pl-4">
+                                    <a href="#" class="author-name">Calantha Flower</a>
+                                    <p>Hello! My name is Nicolas Sarkozy. I’m a web designer and front-end web developer with over fifteen years of professional.</p>
+                                    <div class="post-author-social-info">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                                    </div>
+                                </div>
+                            </div>
